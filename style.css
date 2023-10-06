@@ -1,0 +1,36 @@
+body{
+    font-family: Arial;
+    background-color:rgb(17, 160, 89);
+    margin-left: 30;
+}
+
+
+h1
+{
+    color: rgb(42, 93, 202);
+    text-shadow: 3px 3px rgb(24, 82, 19);
+    font-size: 50px;
+    text-align: center;
+}
+
+
+h2
+{
+    border: solid;
+    border-radius: 20px;
+    border-block-start-color: rgb(80, 17, 151);
+    text-align: center;
+}
+
+
+div
+{
+    margin: auto;
+    width: 900px;
+    list-style-type: circle;
+    text-shadow: 1px 1px rgb(60, 73, 75);
+    word-break: keep-all;
+    position: center;
+    text-align: center;
+}
+
